@@ -1,0 +1,8 @@
+C:\Cidm4390-Spring2018-Razzmatazz\CSILibrary\obj\Debug\netstandard2.0\CSILibrary.csproj.CoreCompileInputs.cache
+C:\Cidm4390-Spring2018-Razzmatazz\CSILibrary\obj\Debug\netstandard2.0\CSILibrary.AssemblyInfoInputs.cache
+C:\Cidm4390-Spring2018-Razzmatazz\CSILibrary\obj\Debug\netstandard2.0\CSILibrary.AssemblyInfo.cs
+C:\Cidm4390-Spring2018-Razzmatazz\CSILibrary\bin\Debug\netstandard2.0\CSILibrary.deps.json
+C:\Cidm4390-Spring2018-Razzmatazz\CSILibrary\bin\Debug\netstandard2.0\CSILibrary.dll
+C:\Cidm4390-Spring2018-Razzmatazz\CSILibrary\bin\Debug\netstandard2.0\CSILibrary.pdb
+C:\Cidm4390-Spring2018-Razzmatazz\CSILibrary\obj\Debug\netstandard2.0\CSILibrary.dll
+C:\Cidm4390-Spring2018-Razzmatazz\CSILibrary\obj\Debug\netstandard2.0\CSILibrary.pdb

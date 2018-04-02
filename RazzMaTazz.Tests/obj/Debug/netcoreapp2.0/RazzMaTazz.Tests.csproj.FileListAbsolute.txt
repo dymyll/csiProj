@@ -1,0 +1,15 @@
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz.Tests\bin\Debug\netcoreapp2.0\RazzMaTazz.Tests.deps.json
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz.Tests\bin\Debug\netcoreapp2.0\RazzMaTazz.Tests.runtimeconfig.json
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz.Tests\bin\Debug\netcoreapp2.0\RazzMaTazz.Tests.runtimeconfig.dev.json
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz.Tests\bin\Debug\netcoreapp2.0\RazzMaTazz.Tests.dll
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz.Tests\bin\Debug\netcoreapp2.0\RazzMaTazz.Tests.pdb
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz.Tests\bin\Debug\netcoreapp2.0\RazzMaTazz.dll
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz.Tests\bin\Debug\netcoreapp2.0\RazzMaTazz.pdb
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz.Tests\obj\Debug\netcoreapp2.0\RazzMaTazz.Tests.csproj.CoreCompileInputs.cache
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz.Tests\obj\Debug\netcoreapp2.0\RazzMaTazz.Tests.AssemblyInfoInputs.cache
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz.Tests\obj\Debug\netcoreapp2.0\RazzMaTazz.Tests.AssemblyInfo.cs
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz.Tests\obj\Debug\netcoreapp2.0\RazzMaTazz.Tests.dll
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz.Tests\obj\Debug\netcoreapp2.0\RazzMaTazz.Tests.pdb

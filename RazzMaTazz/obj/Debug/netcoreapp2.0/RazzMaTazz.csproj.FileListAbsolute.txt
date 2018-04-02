@@ -1,0 +1,12 @@
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz\obj\Debug\netcoreapp2.0\RazzMaTazz.csproj.CoreCompileInputs.cache
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz\obj\Debug\netcoreapp2.0\RazzMaTazz.AssemblyInfoInputs.cache
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz\obj\Debug\netcoreapp2.0\RazzMaTazz.AssemblyInfo.cs
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz\bin\Debug\netcoreapp2.0\RazzMaTazz.deps.json
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz\bin\Debug\netcoreapp2.0\RazzMaTazz.runtimeconfig.json
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz\bin\Debug\netcoreapp2.0\RazzMaTazz.runtimeconfig.dev.json
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz\bin\Debug\netcoreapp2.0\RazzMaTazz.dll
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz\bin\Debug\netcoreapp2.0\RazzMaTazz.pdb
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz\obj\Debug\netcoreapp2.0\RazzMaTazz.dll
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz\obj\Debug\netcoreapp2.0\RazzMaTazz.pdb
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz\bin\Debug\netcoreapp2.0\CSILibrary.dll
+C:\Cidm4390-Spring2018-Razzmatazz\RazzMaTazz\bin\Debug\netcoreapp2.0\CSILibrary.pdb

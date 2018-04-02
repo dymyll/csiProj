@@ -1,0 +1,9 @@
+@model IEnumerable<RequestMetrics>
+@foreach (var p in Model) {   
+     <div>       
+      <h3>@p.Apimethod</h3>        
+      @p.BankNumber        
+      <h4>@p.SourcePort.ToString()
+      </h4>    
+      </div> 
+      }

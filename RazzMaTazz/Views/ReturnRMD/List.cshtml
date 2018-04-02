@@ -1,0 +1,9 @@
+@model IEnumerable<RequestMetricsDetails>
+@foreach (var p in Model) {   
+     <div>       
+      <h3>@p.IsError</h3>        
+      @p.RequestTime        
+      <h4>@p.RequestDetail
+      </h4>    
+      </div> 
+      }
