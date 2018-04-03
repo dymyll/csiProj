@@ -4,7 +4,7 @@ using RazzMaTazz.Models;
 using CSILibrary;
 
 //SRP
-//Responsilbe for only communicating with the ReturnExtD Repository to reach that particular tabl 
+//Responsilbe for only communicating with the ReturnExtD Repository to reach that particular table 
 
 namespace RazzMaTazz.Models {
     public class EFReturnRMExDRepository : IReturnRMDExDRepository {        

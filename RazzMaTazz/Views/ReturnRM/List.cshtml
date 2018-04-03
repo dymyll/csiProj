@@ -1,9 +1,15 @@
 @model IEnumerable<RequestMetrics>
-@foreach (var p in Model) {   
+
+
+@foreach (var p in Model) { 
+      @if(p.BankNumber == 303){ 
      <div>       
       <h3>@p.Apimethod</h3>        
-      @p.BankNumber        
+      @p.BankNumber         
       <h4>@p.SourcePort.ToString()
       </h4>    
       </div> 
       }
+}
+
+      
